@@ -1,5 +1,5 @@
 yfinance
 pandas
 pandas-ta
-pytest
-setuptools
+crewai
+crewai[tools]
